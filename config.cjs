@@ -17,7 +17,7 @@ module.exports = {
   "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "MR JANIYA",
+  "OWNER_NAME": "Sanja Bro",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": false,
   "AUTO_RECORDING": true,
